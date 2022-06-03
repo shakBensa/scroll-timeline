@@ -1,0 +1,31 @@
+body{
+    background-color: #ebecd7;
+    width: 700px;
+    margin: auto;
+}
+
+.container{
+    display: flex;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: #949494;
+
+}
+
+.scroll-tracker{
+    position: fixed;
+    inset: 0 0 auto;
+    height: .5rem;
+    background-color: #043b5c;
+    border-radius: 5%;
+    transform-origin: left;
+}
+p{
+   color: #043b5c;
+}
+img{
+height: 500px;    display: flex;
+    margin: auto;
+}
