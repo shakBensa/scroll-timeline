@@ -44,7 +44,7 @@ scrollTracker.animate(
         timeline: scrollTrackingTimeline,
     }
 );
-
+// 
 // document.getElementsByClassName('parallax').animate(
 //     { transform: ['translateY(0)', 'translateY(100px)'] },
 //     {
